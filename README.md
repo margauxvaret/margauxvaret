@@ -1,75 +1,70 @@
-# Hi, I'm Margaux !
+# Margaux Varet
 
-M2 Data & AI student at ECE Paris  
-Interested in Data Engineering, Data Science & AI  
-Paris, France  
-Looking for a 2027 Data / AI internship
+### Data & AI Engineer — ECE Paris
 
----
+> Data & AI engineering student interested in Data Engineering, Data Science and Generative AI.
+> Looking for a Data / AI internship starting January 2027.
 
-##  About me
-
-I'm a Data & AI engineering student at ECE Paris, interested in
-building data-driven solutions and applying AI to real-world problems.
-
-I enjoy working on projects involving data processing, machine learning,
-data visualization and generative AI.
+M2 Data & AI — ECE Paris
+Paris, France
 
 ---
 
-##  Skills
+## Technical Skills
 
-### Data & AI
-- Python
-- SQL
-- Machine Learning
-- Data Science
-- Generative AI
-- RAG / LLM
-- TensorFlow / PyTorch
-- Scikit-learn
-
-### Data Engineering & BI
-- Power BI
-- Qlik Sense / QlikView
-- Pandas
-- Spark
-- Data pipelines
-- SQL databases
-
-### Development
-- Git / GitHub
-- FastAPI
-- Streamlit
-- Java
-- PHP
-- HTML / CSS
+| Domain                      | Tech Stack                                     |
+| --------------------------- | ---------------------------------------------- |
+| **Programming**             | `Python` `SQL` `Java` `PHP`                    |
+| **Data Science & ML**       | `Pandas` `Scikit-learn` `TensorFlow` `PyTorch` |
+| **Data Engineering**        | `Apache Spark` `SQL` `ETL` `Data Pipelines`    |
+| **Generative AI**           | `LLM` `RAG` `FAISS` `Hugging Face` `Mistral`   |
+| **BI & Data Visualization** | `Power BI` `Qlik Sense` `QlikView`             |
+| **Development**             | `FastAPI` `Streamlit` `Git` `Docker`           |
+| **Embedded AI**             | `Arduino` `Raspberry Pi` `MFCC`                |
 
 ---
 
-##  Projects
+## Selected Projects
 
-###  Industrial Anomaly Detection
-Machine learning project for detecting production anomalies
-and identifying potential causes from industrial sensor data.
+### Cardio-Réadap Pro — AI Assistant for Cardiac Rehabilitation
 
-**Python · Pandas · Scikit-learn · Streamlit**
+> Stack: `Python` `FAISS` `Mistral` `Hugging Face` `Streamlit`
 
-### Cardio-Réadap Pro
-AI assistant designed to support cardiac rehabilitation,
-using RAG and LLM technologies.
+* AI assistant designed to support cardiac rehabilitation
+* RAG pipeline using FAISS and semantic embeddings
+* Integration of an LLM for patient-oriented responses
+* Interactive Streamlit application
 
-**Python · FAISS · Hugging Face · Mistral · Streamlit**
+### Industrial Anomaly Detection
+
+> Stack: `Python` `Pandas` `Scikit-learn` `Streamlit`
+
+* Machine learning model for detecting anomalies in industrial sensor data
+* Classification of production defects and identification of potential causes
+* Data preprocessing, feature engineering and model evaluation
+* Interactive visualization through Streamlit
 
 ### Embedded Voice Recognition
-Real-time voice recognition system running on an Arduino Due,
-using MFCC features and a lightweight machine learning model.
 
-**Python · Arduino · Embedded AI**
+> Stack: `Python` `Arduino Due` `MFCC` `Embedded AI`
+
+* Real-time voice recognition system running directly on an Arduino Due
+* Audio feature extraction using MFCC
+* Lightweight machine learning model for on-device inference
 
 ---
 
-##  Contact
+## 🌱 Currently Learning
 
-- LinkedIn: https://www.linkedin.com/in/margaux-varet/
-- Email: margaux.varet@edu.ece.fr
+* Data Engineering & Apache Spark
+* Generative AI & RAG
+* LLM evaluation
+* Data platforms & pipelines
+* MLOps
+
+---
+
+## 📫 Contact
+
+* LinkedIn: linkedin.com/in/margaux-varet/
+* Email: margaux.varet@edu.ece.fr
