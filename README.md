@@ -54,7 +54,7 @@ Paris, France
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Data Engineering & Apache Spark
 * Generative AI & RAG
